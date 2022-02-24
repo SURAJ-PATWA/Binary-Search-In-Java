@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-//Write A program in java To Find the Binary Search Programm
+//Write A program in java To Find the Binary Search
 public class BinarySearch {
     public static int binarysearch(int a[],int search){
         int start=0;
